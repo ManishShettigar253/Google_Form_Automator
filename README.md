@@ -1,6 +1,8 @@
 # Google_Form_Automater
 
-* This is used to fill the details of Interns
+* This is used to fill the details of Interns in some Organiztion
+
+* Details Incude : Email, Name, College, Team, Role
 
 * This program is designed on Python3 using `pyautogui for GUI automation` , this can be used for automating various processes like 
 filling google forms, booking tickets etc.
