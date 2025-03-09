@@ -1,0 +1,4 @@
+* Python 2.7 or higher
+* pyautogui
+* webbrowser
+* time
